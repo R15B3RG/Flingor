@@ -1,0 +1,6 @@
+@Flingor_HostAddress = http://localhost:5001
+
+GET {{Flingor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
